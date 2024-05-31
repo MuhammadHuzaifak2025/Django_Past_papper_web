@@ -21,7 +21,7 @@ The `Web_pastpaper` app is a Django-based application designed to provide an API
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/Web_pastpaper.git
+    git clone git@github.com:MuhammadHuzaifak2025/Django_Past_papper_web.git
     cd Web_pastpaper
     ```
 
