@@ -1,6 +1,4 @@
-readme_content = """
-# Web_pastpaper App README
-
+##Django Past Papper Web
 ## Overview
 
 The `Web_pastpaper` app is a Django-based application designed to provide an API for retrieving past examination papers based on subject codes. The app utilizes Django REST Framework for API creation and manages data related to subjects, years, and examination papers through Django models.
